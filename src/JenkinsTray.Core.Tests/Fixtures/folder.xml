@@ -1,0 +1,1 @@
+<folder><job><name>pipeline</name><url>https://ci.test/job/folder/job/pipeline/</url><_class>org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject</_class></job><job><name>cycle</name><url>https://ci.test/job/folder/</url></job></folder>

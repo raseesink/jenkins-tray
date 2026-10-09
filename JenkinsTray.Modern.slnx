@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JenkinsTray.Core/JenkinsTray.Core.csproj" />
+    <Project Path="src/JenkinsTray.Desktop/JenkinsTray.Desktop.csproj" />
+    <Project Path="src/JenkinsTray.Windows/JenkinsTray.Windows.csproj" />
+    <Project Path="src/JenkinsTray.MacOS/JenkinsTray.MacOS.csproj" />
+    <Project Path="src/JenkinsTray.Core.Tests/JenkinsTray.Core.Tests.csproj" />
+    <Project Path="src/JenkinsTray.Desktop.Tests/JenkinsTray.Desktop.Tests.csproj" />
+  </Folder>
+</Solution>

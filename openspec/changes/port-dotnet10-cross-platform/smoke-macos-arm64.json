@@ -1,0 +1,13 @@
+{
+  "os": "macOS 26.6.2",
+  "architecture": "Arm64",
+  "windowShown": true,
+  "closeHidesWindow": true,
+  "showReopensWindow": true,
+  "settingsShown": true,
+  "trayVisible": true,
+  "allTrayIconsLoaded": true,
+  "secretRoundTrip": true,
+  "secretRemoved": true,
+  "notificationAvailability": "Denied"
+}

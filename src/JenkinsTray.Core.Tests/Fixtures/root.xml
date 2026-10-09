@@ -1,0 +1,1 @@
+<hudson><job><name>folder</name><url>https://ci.test/job/folder/</url><_class>com.cloudbees.hudson.plugins.folder.Folder</_class></job><job><name>plain</name><url>https://ci.test/job/plain/</url><color>blue</color></job><job><name>plain</name><url>https://ci.test/job/plain/</url><color>blue</color></job></hudson>

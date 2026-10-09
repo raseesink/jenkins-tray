@@ -119,3 +119,5 @@ version.txt
 .vscode/
 # Squirrel.Windows Releases folder
 Releases/
+# Modern self-contained distributions
+artifacts/

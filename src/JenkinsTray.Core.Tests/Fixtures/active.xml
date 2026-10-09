@@ -1,0 +1,1 @@
+<workflowJob><color>red_anime</color><buildable>true</buildable><inQueue>true</inQueue><lastBuild><number>12</number><url>https://ci.test/job/plain/12/</url></lastBuild><lastCompletedBuild><number>11</number><url>https://ci.test/job/plain/11/</url></lastCompletedBuild></workflowJob>
